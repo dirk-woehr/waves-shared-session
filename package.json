@@ -1,0 +1,26 @@
+{
+  "name": "waves-shared-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirk-woehr/waves-shared-session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirk-woehr/waves-shared-session/issues"
+  },
+  "homepage": "https://github.com/dirk-woehr/waves-shared-session#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
